@@ -1,12 +1,9 @@
 import React from 'react'
 
 import {
-  ActivityIndicator,
   Alert,
   PermissionsAndroid,
   Platform,
-  Text,
-  View,
 } from 'react-native'
 
 import { themeColorMain, texts } from "./util/styles"
